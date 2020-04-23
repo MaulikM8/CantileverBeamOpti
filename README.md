@@ -1,7 +1,7 @@
 # BeamOpti
 Beam support location optimization for Cantilever Beam with UDL
 
-This programme calculates support location for cantilever beam to reduce maximum bending moment.
+This programe calculates support location for cantilever beam to reduce maximum bending moment.
 
 To run this programe, put all the files in a folder where MATLAB path is set.
 And enter 'runsim' in MATLAB command prompt.
