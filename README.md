@@ -1,4 +1,4 @@
-# BeamOpti
+# CantileverBeamOpti
 Beam support location optimization for Cantilever Beam with UDL
 
 This programe calculates support location for cantilever beam to reduce maximum bending moment.
